@@ -92,9 +92,7 @@ Predicted Lead Quality: High
 
 ### 🎥 Video Walkthrough
 
-📹 [Watch Project Demo](https://your-video-link-here.com)
-
-*(Explain briefly what SmartLeadAI does and show your script running for 1–2 minutes.)*
+📹 [Watch Project Demo](https://drive.google.com/file/d/1g09wFh1FE7RjYob2nfLANKNpS6y58EPy/view?usp=sharing)
 
 ---
 
@@ -119,4 +117,5 @@ SmartLeadAI demonstrates how machine learning can enhance **lead generation**, *
 
 **Om Belgali**
 Machine Learning Engineer Intern (Caprae Capital – Handbook Submission)
-📧 [[your.email@example.com](mailto:your.email@example.com)]
+📧 [[om.belgali@gmail.com]
+
